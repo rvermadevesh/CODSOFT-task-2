@@ -1,0 +1,41 @@
+#one{
+     
+  
+        font-size:20px;
+        
+         
+           color:red;
+           
+           
+           margin:40px;
+       }
+        #one
+       {
+           animation-name:one;
+           animation-iteration-count:3;
+           animation-duration: 2s;
+           
+       
+           
+           
+       }
+            @keyframes  one{
+              from{
+               margin-left: 60%;
+              }
+               to{
+               margin-left: 20%;
+              }
+       
+
+          }
+          a{
+            text-decoration: none;
+          }
+   h1{
+    text-decoration:underline;
+    color:black
+   }
+   h2{
+    color:aquamarine
+   }

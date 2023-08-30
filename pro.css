@@ -1,0 +1,41 @@
+#link{
+    
+     
+  
+        font-size:20px;
+        
+         
+           color: red
+           
+           
+           margin:40px;
+       }
+        #link
+       {
+           animation-name: link;
+           animation-iteration-count:3;
+           animation-duration: 2s;
+           color:pink;
+       
+           
+           
+       }
+            @keyframes  link{
+              from{
+               margin-left: 60%;
+              }
+               to{
+               margin-left: 20%;
+              }
+       
+
+          }
+          link{
+            text-decoration: none;
+          }
+   h1{
+    color:black;
+    text-decoration:underline;
+   }
+   
+ 

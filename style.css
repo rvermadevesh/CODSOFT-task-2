@@ -1,0 +1,33 @@
+ #demo{
+  
+    font-size:20px;
+    
+     
+       color:green;
+       
+       
+       margin:40px;
+   }
+    #demo
+   {
+       animation-name:demo;
+       animation-iteration-count:1;
+       animation-duration: 2s;
+   
+       
+       
+   }
+        @keyframes  demo{
+          from{
+           margin-left: 60%;
+          }
+           to{
+           margin-left: 0%;
+          }
+   
+      }
+      h1{
+        text-decoration: underline;
+        color:black;
+      }
+ 

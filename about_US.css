@@ -1,0 +1,27 @@
+#text{
+     font-size:50px;
+ 
+    margin:10px;
+    color:aqua;
+    text-align: center;
+    
+    margin:40px;
+}
+ #text
+{
+    animation-name:  text;
+    animation-iteration-count:1 ;
+    animation-duration: 2s;
+
+    
+    
+}
+     @keyframes    text{
+       from{
+        margin-left: 60%;
+       }
+        to{
+        margin-left: 0%;
+       }
+
+   }
